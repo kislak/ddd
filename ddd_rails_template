@@ -1,3 +1,5 @@
+# source https://railseventstore.org/new
+
 gem 'rails_event_store', '~> 0.42.0'
 
 after_bundle do
