@@ -185,7 +185,7 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
     public_suffix (3.0.3)
-    puma (3.12.0)
+    puma (3.12.3)
     rack (2.0.7)
     rack-protection (2.0.5)
       rack
@@ -333,7 +333,7 @@ DEPENDENCIES
   mutant-minitest!
   pg
   pry
-  puma (~> 3.11)
+  puma (~> 3.12)
   rails (~> 5.2.3)
   rails_event_store (~> 0.40.1)
   sassc-rails
